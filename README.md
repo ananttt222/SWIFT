@@ -106,7 +106,3 @@ Após dominar esses conceitos, você pode estudar:
 3. **Pratique regularmente**: A prática leva à perfeição
 4. **Use o Playground**: Ótimo para experimentação rápida
 5. **Leia a documentação oficial**: [Swift.org](https://swift.org/documentation/)
-
----
-
-**Lembre-se**: Swift é uma linguagem moderna, segura e expressiva. Estes exemplos cobrem as bases necessárias para começar sua jornada no desenvolvimento iOS/macOS! 🍎
